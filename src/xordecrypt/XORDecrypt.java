@@ -2,6 +2,7 @@
 package xordecrypt;
 
 
+
 public class XORDecrypt {
     static String value = "SampleStringToBeEncrypted";
     static String keyval = "thisIsAKey";
