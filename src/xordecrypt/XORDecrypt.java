@@ -1,7 +1,6 @@
 
 package xordecrypt;
 
-import java.util.Scanner;
 
 public class XORDecrypt {
     static String value = "SampleStringToBeEncrypted";
